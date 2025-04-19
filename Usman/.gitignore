@@ -27,5 +27,5 @@ public
 eslint.config.js
 index.html
 package.json
-README.node_modules
+README.md
 vite.config.js
